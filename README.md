@@ -2,7 +2,7 @@
 
 <table><tr><td>
   
-# Lorem Ipsum X Open Source
+# Lorem Ipsum Open Source
 
 Description<br>
 
