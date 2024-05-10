@@ -29,10 +29,10 @@
 
 			},
 
-			"Modules": { "$path": "Game/Workspace/Modules" },
+			"Scripts": { "$path": "Game/Workspace/Scripts" },
 
-			"Values": { "$path": "Game/Workspace/Values" },
-			"Scripts": { "$path": "Game/Workspace/Scripts" }
+			"Modules": { "$path": "Modules" },
+			"Values": { "$path": "Values" }
 		}
 	},
 
